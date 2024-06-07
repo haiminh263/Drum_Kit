@@ -73,4 +73,9 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+  cursor: pointer;
+}
+
+.drum:hover {
+  opacity: 0.5;
 }
